@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+#taskList {
+    margin-top: 20px;
+}
+
+.task {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+input[type="text"] {
+    padding: 8px;
+    font-size: 16px;
+}
+
+button {
+    padding: 8px 16px;
+    font-size: 16px;
+}
